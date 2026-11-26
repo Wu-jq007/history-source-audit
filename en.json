@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Historical source reliability audit 3.1",
+    "description": "Adds the history_source_audit tool (v3.1): grade a textual source against a fixed 13-point rubric with era-aware weights, written hard-rule exemptions, a +2 bonus only for an authoritative critical edition, an optional LLM review of scan false positives, a warning-only web check for a dropped '太史公曰' lead-in, and a debug diagnostics switch. Includes Vitest tests and reproducible examples."
+  }
+}
