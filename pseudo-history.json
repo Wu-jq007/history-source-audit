@@ -1,0 +1,20 @@
+{
+  "source": "《帝王秘录》网传「秦始皇接见外星使者」",
+  "excerpt": "据野史《帝王秘录》记载，秦始皇二十八年，有宛渠之民乘螺旋舟自天外而至，献陨铁长剑，始皇试之，削铁如泥。此事后为司马迁所讳，故《史记》不载。",
+  "era_type": "pre_qin",
+  "edition": "none",
+  "criteria": [
+    { "criterion": "source_nature", "verdict": "weaken", "note": "匿名野史，非官修，也无后世公认。" },
+    { "criterion": "corroboration", "verdict": "weaken", "note": "孤证；《史记》不载不能反证其有。" },
+    { "criterion": "material_evidence", "verdict": "weaken", "note": "无实物、无考古对应。" },
+    { "criterion": "author_stance", "verdict": "weaken", "note": "以猎奇与流量为目的。" },
+    { "criterion": "time_space_distance", "verdict": "weaken", "note": "晚出转述，距秦代久远。" },
+    { "criterion": "style_format", "verdict": "weaken", "note": "「螺旋舟」「陨铁」等词汇与秦代文体不合。" },
+    { "criterion": "provenance_layers", "verdict": "weaken", "note": "经多层网络转述。" },
+    { "criterion": "logical_coherence", "verdict": "weaken", "note": "「为司马迁所讳」是循环论证。" },
+    { "criterion": "fact_vs_evaluation", "verdict": "weaken", "note": "想象、评价与叙事混杂。" },
+    { "criterion": "literary_embellishment", "verdict": "weaken", "note": "明显小说笔法。" },
+    { "criterion": "bias_presentism", "verdict": "weaken", "note": "用现代 UFO 想象倒推秦代。" },
+    { "criterion": "counter_evidence", "verdict": "weaken", "note": "未检索；《史记》无载即反证之一。" }
+  ]
+}
