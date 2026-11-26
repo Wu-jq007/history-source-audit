@@ -1,0 +1,28 @@
+{
+  "source": "清华简《系年》第一章（战国竹简）",
+  "excerpt": "昔周武王监观商王之不恭上帝，禋祀不寅，乃作帝籍，以登祀上帝天神，名之曰千亩，以克反商邑，敷政天下。",
+  "era_type": "pre_qin",
+  "edition": "peer-reviewed",
+  "criteria": [
+    { "criterion": "source_nature", "verdict": "support", "note": "考古发掘竹简，整理本为权威学术版。" },
+    {
+      "criterion": "corroboration",
+      "verdict": "weaken",
+      "note": "传世文献无同文；以出土载体与整理报告为据。",
+      "override": {
+        "rule": "corroboration_cap",
+        "reason": "清华简《系年》为考古发掘竹简，载体经科学测年约为战国中期；其史料性由实物载体与正式整理报告支撑，不依赖传世旁证。"
+      }
+    },
+    { "criterion": "material_evidence", "verdict": "support", "note": "竹简实物，有正式整理报告。" },
+    { "criterion": "author_stance", "verdict": "support", "note": "未见针对所记对象的直接敌对立场。" },
+    { "criterion": "time_space_distance", "verdict": "support", "note": "战国中期，距西周较近。" },
+    { "criterion": "style_format", "verdict": "support", "note": "战国楚文字与同期文体。" },
+    { "criterion": "provenance_layers", "verdict": "partial", "note": "非亲历，但属早期史官传统。" },
+    { "criterion": "logical_coherence", "verdict": "support", "note": "叙述连贯。" },
+    { "criterion": "fact_vs_evaluation", "verdict": "support", "note": "以叙事为主。" },
+    { "criterion": "literary_embellishment", "verdict": "support", "note": "行文平实。" },
+    { "criterion": "bias_presentism", "verdict": "support", "note": "需注意楚地视角，但未见明显口径变化。" },
+    { "criterion": "counter_evidence", "verdict": "support", "note": "已检索，反证较弱。" }
+  ]
+}
