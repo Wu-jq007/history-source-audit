@@ -1,0 +1,49 @@
+{
+  "name": "@local/history-source-audit",
+  "version": "3.1.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "Audit textual historical sources with a 13-point rubric, era-aware weights, written hard-rule exemptions, a critical-edition bonus, optional LLM context review, and warning-only web verification.",
+  "keywords": [
+    "digital-humanities",
+    "historiography",
+    "source-criticism",
+    "llm-tools",
+    "deepseek-plugin",
+    "historical-research"
+  ],
+  "exports": {
+    ".": "./index.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "src",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "icon.svg",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    "docs",
+    "examples"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "demo": "node examples/generate.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "vitest": "^5.1.1"
+  }
+}
